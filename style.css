@@ -1,0 +1,131 @@
+.full-nave{
+    background-color:transparent;
+    right: 0;
+  }
+
+.color{
+      color:rgb(214, 26, 26)
+  }
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.navbar-marign a{
+   color: rgb(255, 255, 255) !important;
+   font-style: italic;
+   text-decoration: underline;
+   margin-right: 20px;
+}
+.navbar-marign1 a{
+   color: rgb(8, 8, 8) !important;
+   font-style: italic;
+   text-decoration: underline;
+   margin-right: 20px;
+}
+
+.slide{
+   
+    background-color: #55acf98a;
+    margin-top: 11.8rem;
+    
+}
+
+.item{
+            padding: 10px; 
+    }
+
+.tabs-1{
+    background-color: #3f4e6c;
+    padding: 5px;
+}
+
+.tabs a{
+    margin-right: 20px;
+    text-decoration: underline;
+    color: white;
+}
+
+.tabs a:hover{
+    background-color: #b0b4be;
+    color: #3f4e6c;
+}
+
+#home .card{
+    width: 40%;
+    background: #ffffff8f;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #3f4e6c;
+    background-color: #b0b4be;
+    text-decoration: underline;
+}
+
+.nav-link {
+    color: #b0b4be;
+    text-decoration: underline;
+}
+
+.logo-col-1{
+    color: #4d4c4d;
+}
+
+.logo-col-2{
+    color: #3c4a66;
+}
+
+.section-3{
+    height: 100vh;
+    background-image: url('F003.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.font_size{
+    font-size: 6rem;
+    color: rgb(105,121,151);
+}
+
+.dot{
+    height: 10px;
+    width: 12px;
+    background: rgb(129, 134, 145);
+}
+
+.section-5{
+    height: 100vh;
+    background-image: url('F004.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab_link{
+    background-color: #3f4e6c;  
+}
+
+.list-group-item{
+    background: unset;
+}
+
+.footer-color{
+    background-color: #3f4e6c;
+}
+
+.fotter_text{
+    border-radius: 50%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ .slide{
+    margin-top: 4.9rem
+ }
+
+ #home .card{
+    width: 100%;
+}
+  
+}
